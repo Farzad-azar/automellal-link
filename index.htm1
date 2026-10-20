@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>اتو ملل | Auto Mellal</title>
+<style>
+body {
+  margin: 0;
+  font-family: Tahoma, Arial, sans-serif;
+  background: #101010;
+  color: #fff;
+  text-align: center;
+  padding: 35px 18px;
+}
+.card {
+  max-width: 420px;
+  margin: auto;
+  border: 1px solid #c8a45c;
+  border-radius: 20px;
+  padding: 30px 20px;
+  box-sizing: border-box;
+}
+.logo {
+  color: #d7b56d;
+  font-size: 34px;
+  font-weight: bold;
+  margin: 20px 0 10px;
+}
+p {
+  color: #ddd;
+  line-height: 2;
+}
+a {
+  display: block;
+  background: #c8a45c;
+  color: #111;
+  text-decoration: none;
+  padding: 16px;
+  margin: 16px 0;
+  border-radius: 10px;
+  font-weight: bold;
+}
+a.telegram {
+  background: transparent;
+  color: #d7b56d;
+  border: 1px solid #c8a45c;
+}
+.footer {
+  color: #aaa;
+  font-size: 12px;
+  margin-top: 25px;
+}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="logo">اتو ملل</div>
+  <p>Auto Mellal</p>
+  <p>به صفحه رسمی اتو ملل خوش آمدید.</p>
+  <a href="https://www.instagram.com/Auto_mellal/" target="_blank">صفحه اینستاگرام ما 📸</a>
+  <a class="telegram" href="https://t.me/automellal_qazvin" target="_blank">کانال تلگرام ما ✈️</a>
+  <div class="footer">اتو ملل | همراه مطمئن شما در خرید خودرو</div>
+</div>
+</body>
+</html>
